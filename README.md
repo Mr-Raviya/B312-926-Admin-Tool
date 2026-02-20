@@ -1,4 +1,4 @@
-# B312-926 Admin Tool
+# <img src="img/logo-128.png" width="32"/> B312-926 Admin Tool
 
 Huawei B312-926 admin features managing Chrome Extension.
 
@@ -16,3 +16,6 @@ Huawei B312-926 admin features managing Chrome Extension.
 2. Open chrome://extensions
 3. Enable Developer Mode
 4. Load unpacked folder
+
+Huawei is a trademark of Huawei Technologies Co., Ltd.
+This project is not affiliated with or endorsed by Huawei.
