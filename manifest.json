@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "B312-926 Admin Tool",
+  "description": "Band Selection and Antenna Settings for Huawei B312-926",
+  "version": "1.0",
+  "icons": {
+    "16": "img/logo-16.png",
+    "48": "img/logo-48.png",
+    "128": "img/logo-128.png"
+  },
+  "action": {
+    "default_icon": {
+      "19": "img/logo-19.png",
+      "38": "img/logo-48.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "http://192.168.8.1/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
